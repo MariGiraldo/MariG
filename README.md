@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="watermarked_img_12635435660515322928.png" alt="Mari Giraldo - Ingeniera en Informática" width="100%">
+  <img src="Gemini_Generated_Image_eu7rbveu7rbveu7r.png" alt="Mari Giraldo - Ingeniera en Informática" width="100%">
 </p>
 
 # ¡Hola! Soy Mari Giraldo ✨
