@@ -52,8 +52,8 @@ Aquí puedes explorar algunos de los enfoques en los que he trabajado:
 Para darle el toque final y dinámico a tu perfil, aquí tienes el resumen de tu actividad (se actualiza automáticamente):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=rose&hide_border=true" alt="Estadísticas de Mari" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=rose&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MariGiraldo&show_icons=true&theme=rose&hide_border=true" alt="Estadísticas de Mari" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariGiraldo&layout=compact&theme=rose&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
